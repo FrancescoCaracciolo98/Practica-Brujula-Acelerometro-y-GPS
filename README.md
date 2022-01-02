@@ -52,7 +52,7 @@ GPS, global position system, es un sistema de navegación que muestra mi ubicaci
 Veamos el código:
 
 
-![Screenshot%20(5484)](https://github.com/FrancescoCaracciolo98/Practica-Brujula-Acelerometro-y-GPS/blob/main/Screenshot%20(5484).png)
+![Screenshot%20(1)](https://github.com/FrancescoCaracciolo98/Practica-Brujula-Acelerometro-y-GPS/blob/main/Screenshot%20(1).png)
 ![Screenshot%20(5483)](https://github.com/FrancescoCaracciolo98/Practica-Brujula-Acelerometro-y-GPS/blob/main/Screenshot%20(5483).png)
 
 
@@ -60,6 +60,31 @@ Usamos una corrutina porque tenemos que esperar a que el usuario responda, para 
 
 Grabo la latitud y la longitud.
 
+
+![Screenshot%20(2)](https://github.com/FrancescoCaracciolo98/Practica-Brujula-Acelerometro-y-GPS/blob/main/Screenshot%20(2).png)
+
 &nbsp;
  
-## Parte GPS
+## Parte Brújula
+
+Finalmente, como última parte, usemos la función de brújula de mi teléfono.
+
+Para hacer esto, el código es el siguiente:
+
+
+![Screenshot%20(5487)](https://github.com/FrancescoCaracciolo98/Practica-Brujula-Acelerometro-y-GPS/blob/main/Screenshot%20(5487).png)
+
+
+Para capturar la orientación norte, utilizo un rectángulo rojo.
+
+
+![Screenshot%20(5488)](https://github.com/FrancescoCaracciolo98/Practica-Brujula-Acelerometro-y-GPS/blob/main/Screenshot%20(5488).png)
+
+&nbsp;
+ 
+## Conclusión del trabajo
+
+Ahora veamos cómo funcionan estas tres partes en la misma aplicación:
+
+
+![V2.0_Practica%20Br%C3%BAjula%2C%20Aceler%C3%B3metro%20y%20GPS%20-%20SampleScene%20-%20Android%20-%20Unity%202020.3.20f1%20_DX11_%202022-01-02%2018-39-12.gif](https://github.com/FrancescoCaracciolo98/Practica-Brujula-Acelerometro-y-GPS/blob/main/V2.0_Practica%20Br%C3%BAjula%2C%20Aceler%C3%B3metro%20y%20GPS%20-%20SampleScene%20-%20Android%20-%20Unity%202020.3.20f1%20_DX11_%202022-01-02%2018-39-12.gif)
